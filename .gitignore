@@ -1,2 +1,2 @@
-# Bazel output
 bazel-*
+.vscode
